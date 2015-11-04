@@ -1,0 +1,9 @@
+{
+	"name": "Node.js",
+	"version": "0.0.1",
+	"description" : "The application tfhat usis Node.js as a server",
+	"dependencies": {
+		"socket.io": "latest",
+		"mime": "latest"
+	}
+}
